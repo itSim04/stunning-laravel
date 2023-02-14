@@ -23,6 +23,7 @@ The purpose of this exercise is deploying a Laravel website on an Ubuntu Server.
     <li><b><a id="php-generate">php artisan key:generate</a></b>: Generates a key (requires <a href="#sudo">sudo</a>)</li>
     <li><b><a id="chgrp">chgrp -R www-data storage bootstrap/cache</a></b>: Recursively changes the group of every file/folder at the specified directory (requires <a href="#sudo">sudo</a>)</li>
     <li><b><a id="chmod">chmod -R ug+rwx storage bootstrap/cache</a></b>: Recursively adds read, write and execute permissions to every file/folder at the specified directory (requires <a href="#sudo">sudo</a>)</li>
+    <li><b><a id="which">which [program-name]</a></b>: Returns the installation directory of a certain program</li>
 </ul>
     
 <hr>
