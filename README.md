@@ -1,6 +1,6 @@
 ## Introduction
 
-The purpose of this exercise is deploying a Laravel website on an Ubuntu Server. This file will consist of a step by step report of the steps taken.
+The purpose of this exercise is deploying a Laravel website on an Ubuntu Server. This file will consist of a report of the steps taken.
 
 <hr>
 
